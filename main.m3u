@@ -2740,8 +2740,18 @@ https://mc-hda11sn95o.bunny.run/tving/c17341/master.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="CLOUDFLARF", GMA 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://utube.cocker-tk.workers.dev/UCKL5hAuzgFQsyrsQKgU0Qng/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="CLOUDFLARF", Gentama LIVE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://utube.cocker-tk.workers.dev/Cj4ZGEIJScg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="CLOUDFLARF", GMA EX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://playlist.nathcreqtives.com/playlist.m3u8
 
 
 
