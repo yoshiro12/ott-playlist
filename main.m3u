@@ -2941,10 +2941,13 @@ https://playlist.nathcreqtives.com/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/
-#EXTINF:-1, GMA SE
-http://136.158.97.2:6610/001/2/ch00...ionId=RR20448620260101155237367179&ispcode=55
+#EXTINF:-1, GMA GSAT
+https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/
+#EXTINF:-1, GMA GSAT Widevine
+https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
 
 
 
